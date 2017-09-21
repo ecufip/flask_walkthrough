@@ -1,3 +1,5 @@
+Simple blog application from Flask walkthrough. Not written in virtualenv.
+
 # To run (from application folder):
 
 $export FLASK_APP=application.py
